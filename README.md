@@ -1,4 +1,4 @@
-# Unscented Kalman Filter  Starter
+# Unscented Kalman Filter Project
 Self-Driving Car Engineer Nanodegree Program
 
 [//]: # (Image References)
